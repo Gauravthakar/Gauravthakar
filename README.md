@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauravthakar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php development and laravel development
+- 🌱 I’m currently working with Python and Django RestFramework to build a web applications and also learn more things.
 - 💞️ I’m looking to collaborate on backend technology
 - 📫 How to reach me...
 
